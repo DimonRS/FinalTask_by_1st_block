@@ -34,3 +34,4 @@
 ## Блок-схема задачи
 
 ![Решение через блок-схему](diagram.png)
+![diagram](https://user-images.githubusercontent.com/111015027/191117891-7b68e3c9-b809-440c-bf1c-76eac5e647eb.png)
