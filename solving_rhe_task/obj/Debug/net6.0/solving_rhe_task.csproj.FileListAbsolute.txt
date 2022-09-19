@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Documents\geekbrains\Final_task\solving_rhe_task\obj\Debug\net6.0\solving_rhe_task.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Documents\geekbrains\Final_task\solving_rhe_task\obj\Debug\net6.0\solving_rhe_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Documents\geekbrains\Final_task\solving_rhe_task\obj\Debug\net6.0\solving_rhe_task.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Documents\geekbrains\Final_task\solving_rhe_task\obj\Debug\net6.0\solving_rhe_task.AssemblyInfo.cs
+C:\Users\Дмитрий\Documents\geekbrains\Final_task\solving_rhe_task\obj\Debug\net6.0\solving_rhe_task.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Documents\geekbrains\Final_task\solving_rhe_task\bin\Debug\net6.0\solving_rhe_task.exe
+C:\Users\Дмитрий\Documents\geekbrains\Final_task\solving_rhe_task\bin\Debug\net6.0\solving_rhe_task.deps.json
+C:\Users\Дмитрий\Documents\geekbrains\Final_task\solving_rhe_task\bin\Debug\net6.0\solving_rhe_task.runtimeconfig.json
+C:\Users\Дмитрий\Documents\geekbrains\Final_task\solving_rhe_task\bin\Debug\net6.0\solving_rhe_task.dll
+C:\Users\Дмитрий\Documents\geekbrains\Final_task\solving_rhe_task\bin\Debug\net6.0\solving_rhe_task.pdb
+C:\Users\Дмитрий\Documents\geekbrains\Final_task\solving_rhe_task\obj\Debug\net6.0\solving_rhe_task.dll
+C:\Users\Дмитрий\Documents\geekbrains\Final_task\solving_rhe_task\obj\Debug\net6.0\refint\solving_rhe_task.dll
+C:\Users\Дмитрий\Documents\geekbrains\Final_task\solving_rhe_task\obj\Debug\net6.0\solving_rhe_task.pdb
+C:\Users\Дмитрий\Documents\geekbrains\Final_task\solving_rhe_task\obj\Debug\net6.0\solving_rhe_task.genruntimeconfig.cache
+C:\Users\Дмитрий\Documents\geekbrains\Final_task\solving_rhe_task\obj\Debug\net6.0\ref\solving_rhe_task.dll
